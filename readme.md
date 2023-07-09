@@ -6,7 +6,7 @@ Node.js (v12 or higher)
 NPM (Node Package Manager)
 
 # Functionality
-This CRUD app provides the following functionality:
+This CRUD app provides the following functionality: <br>
 Create: Add new items to the database.
 Read: Retrieve and display existing items from the database.
 Update: Modify and update existing items in the database.
