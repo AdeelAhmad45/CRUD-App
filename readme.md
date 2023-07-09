@@ -1,6 +1,6 @@
 # CRUD App README
 This is a simple CRUD (Create, Read, Update, Delete) application built using JavaScript.
-Prerequisites
+# Prerequisites
 Before running this application, ensure that you have the following installed:
 Node.js (v12 or higher)
 NPM (Node Package Manager)
