@@ -1,5 +1,5 @@
 # CRUD App README
-This is a simple CRUD (Create, Read, Update, Delete) application built using JavaScript. <br>
+This is a simple CRUD (Create, Read, Update, Delete) application built using Node, Express Mongoose ODM. <br>
 # Prerequisites
 Before running this application, ensure that you have the following installed: <br> <br>
 Node.js (v12 or higher) <br>
